@@ -57,3 +57,5 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.1.3'
 gem 'gurujada_view_tool', git: "https://github.com/lallhar/gurujada_view_tool.git"
 gem 'petergate', '~> 2.0', '>= 2.0.1'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
+gem 'kaminari', '~> 1.1', '>= 1.1.1'
